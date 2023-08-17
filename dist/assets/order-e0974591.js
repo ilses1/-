@@ -1,0 +1,1 @@
+import{r as t}from"./request-14faacb8.js";const i=e=>t("/patient/medicine/order/pre","GET",e),s=()=>t("/patient/order/address"),d=e=>t(`/patient/medicine/order/detail/${e}`),a=e=>t(`/patient/order/${e}/logistics`);export{s as a,d as b,a as c,i as g};
