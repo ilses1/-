@@ -1,0 +1,17 @@
+{
+  "Vue 页面 TS 版": {
+		"scope": "vue,markdown",
+		"prefix": "vpt",
+		"body": [
+			"<script setup lang=\"ts\"></script>",
+			"",
+			"<template>",
+			"  <div class=\"$1-page\">$1</div>",
+			"</template>",
+			"",
+			"<style lang=\"scss\" scoped></style>",
+			""
+		],
+		"description": "Vue 页面 TS 版"
+	}
+}  
